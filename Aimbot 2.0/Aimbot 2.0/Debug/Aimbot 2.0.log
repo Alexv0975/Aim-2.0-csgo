@@ -1,0 +1,34 @@
+﻿  Main.cpp
+C:\Users\alexv\OneDrive\Skrivebord\Aimbot 2.0\Aimbot 2.0\Main.cpp(6,1): warning C4005: 'dwLocalPlayer': macro redefinition
+C:\Users\alexv\OneDrive\Skrivebord\Aimbot 2.0\Aimbot 2.0\Offsets.h(130): message : see previous definition of 'dwLocalPlayer'
+C:\Users\alexv\OneDrive\Skrivebord\Aimbot 2.0\Aimbot 2.0\Main.cpp(7,1): warning C4005: 'dwEntityList': macro redefinition
+C:\Users\alexv\OneDrive\Skrivebord\Aimbot 2.0\Aimbot 2.0\Offsets.h(115): message : see previous definition of 'dwEntityList'
+C:\Users\alexv\OneDrive\Skrivebord\Aimbot 2.0\Aimbot 2.0\Main.cpp(8,1): warning C4005: 'm_dwBoneMatrix': macro redefinition
+C:\Users\alexv\OneDrive\Skrivebord\Aimbot 2.0\Aimbot 2.0\Offsets.h(40): message : see previous definition of 'm_dwBoneMatrix'
+C:\Users\alexv\OneDrive\Skrivebord\Aimbot 2.0\Aimbot 2.0\Main.cpp(9,1): warning C4005: 'm_iTeamNum': macro redefinition
+C:\Users\alexv\OneDrive\Skrivebord\Aimbot 2.0\Aimbot 2.0\Offsets.h(82): message : see previous definition of 'm_iTeamNum'
+C:\Users\alexv\OneDrive\Skrivebord\Aimbot 2.0\Aimbot 2.0\Main.cpp(10,1): warning C4005: 'm_iHealth': macro redefinition
+C:\Users\alexv\OneDrive\Skrivebord\Aimbot 2.0\Aimbot 2.0\Offsets.h(75): message : see previous definition of 'm_iHealth'
+C:\Users\alexv\OneDrive\Skrivebord\Aimbot 2.0\Aimbot 2.0\Main.cpp(11,1): warning C4005: 'm_vecOrigin': macro redefinition
+C:\Users\alexv\OneDrive\Skrivebord\Aimbot 2.0\Aimbot 2.0\Offsets.h(95): message : see previous definition of 'm_vecOrigin'
+C:\Users\alexv\OneDrive\Skrivebord\Aimbot 2.0\Aimbot 2.0\Main.cpp(12,1): warning C4005: 'm_bDormant': macro redefinition
+C:\Users\alexv\OneDrive\Skrivebord\Aimbot 2.0\Aimbot 2.0\Offsets.h(149): message : see previous definition of 'm_bDormant'
+C:\Users\alexv\OneDrive\Skrivebord\Aimbot 2.0\Aimbot 2.0\Main.cpp(96,29): warning C4099: 'Vector3': type name first seen using 'class' now seen using 'struct'
+C:\Users\alexv\OneDrive\Skrivebord\Aimbot 2.0\Aimbot 2.0\Main.cpp(46): message : see declaration of 'Vector3'
+C:\Users\alexv\OneDrive\Skrivebord\Aimbot 2.0\Aimbot 2.0\Main.cpp(96,54): warning C4099: 'Vector3': type name first seen using 'class' now seen using 'struct'
+C:\Users\alexv\OneDrive\Skrivebord\Aimbot 2.0\Aimbot 2.0\Main.cpp(46): message : see declaration of 'Vector3'
+C:\Users\alexv\OneDrive\Skrivebord\Aimbot 2.0\Aimbot 2.0\Main.cpp(97,20): warning C4099: 'Vector3': type name first seen using 'class' now seen using 'struct'
+C:\Users\alexv\OneDrive\Skrivebord\Aimbot 2.0\Aimbot 2.0\Main.cpp(46): message : see declaration of 'Vector3'
+C:\Users\alexv\OneDrive\Skrivebord\Aimbot 2.0\Aimbot 2.0\Main.cpp(115,13): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\alexv\OneDrive\Skrivebord\Aimbot 2.0\Aimbot 2.0\Main.cpp(130,39): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\alexv\OneDrive\Skrivebord\Aimbot 2.0\Aimbot 2.0\Main.cpp(130,27): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\alexv\OneDrive\Skrivebord\Aimbot 2.0\Aimbot 2.0\Main.cpp(145,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\alexv\OneDrive\Skrivebord\Aimbot 2.0\Aimbot 2.0\Main.cpp(145,16): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\alexv\OneDrive\Skrivebord\Aimbot 2.0\Aimbot 2.0\Main.cpp(146,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\alexv\OneDrive\Skrivebord\Aimbot 2.0\Aimbot 2.0\Main.cpp(146,18): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\alexv\OneDrive\Skrivebord\Aimbot 2.0\Aimbot 2.0\Main.cpp(167,20): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+C:\Users\alexv\OneDrive\Skrivebord\Aimbot 2.0\Aimbot 2.0\Main.cpp(167,12): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+C:\Users\alexv\OneDrive\Skrivebord\Aimbot 2.0\Aimbot 2.0\Main.cpp(170,49): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\alexv\OneDrive\Skrivebord\Aimbot 2.0\Aimbot 2.0\Main.cpp(170,31): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\alexv\OneDrive\Skrivebord\Aimbot 2.0\Aimbot 2.0\Main.cpp(38): warning C4715: 'GetModuleBaseAddress': not all control paths return a value
+  Aimbot 2.0.vcxproj -> C:\Users\alexv\OneDrive\Skrivebord\Aimbot 2.0\Debug\Aimbot 2.0.exe
